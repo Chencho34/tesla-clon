@@ -44,3 +44,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Librerias Implementadas:
+
+* [React reveal](https://www.react-reveal.com/)
+* [Styled components](https://styled-components.com/).
+* [Material UI](https://mui.com/material-ui/getting-started/installation/).
+
+
+
