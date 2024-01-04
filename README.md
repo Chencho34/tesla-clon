@@ -6,11 +6,38 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
+This project is a clone of Tesla's home page, created to replicate its user interface. It is styled using Styled Components, a library that allows writing styles directly into React components, making design development and maintenance easier. Additionally, React Reveal has been implemented for animations that enhance the presentation of the components, providing an attractive visual experience. Redux, Redux Toolkit have also been used, adding global state management, efficient tools for Redux and pre-established interface components respectively. The design highlights with a drop-down menu for a better user experience.
+
 ## Characteristics
+
+* Replica of the Tesla home page for a familiar interface.
+* Styling with Styled Components for easier management of styles in React components.
+* React Reveal implementation for animations that enhance the presentation.
+* Use of Redux, Redux Toolkit to manage global state and interface components.
 
 ## Screenshots
 
+![tesla-clone](public/screenshots/tesla-cap-01.png)
+![tesla-clone](public/screenshots/tesla-cap-02.png)
+![tesla-clone](public/screenshots/tesla-cap-03.png)
+![tesla-clone](public/screenshots/tesla-cap-04.png)
+![tesla-clone](public/screenshots/tesla-cap-05.png)
+![tesla-clone](public/screenshots/tesla-cap-06.png)
+![tesla-clone](public/screenshots/tesla-cap-07.png)
+![tesla-clone](public/screenshots/tesla-cap-08.png)
+
 ## Install
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Chencho34/tesla-clon
+``` 
+Install the dependencies:
+
+```bash
+npm install
+```
 
 ## Execute Project
 
